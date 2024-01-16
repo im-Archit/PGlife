@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("sql201.infinityfree.com", "if0_35797724", "zKDCY5qBKYIH", "if0_35797724_pglife");
+$conn = mysqli_connect("127.0.0.1", "root", "", "PGlife");
 
 if (mysqli_connect_errno()) {
     // Throw error message based on ajax or not
