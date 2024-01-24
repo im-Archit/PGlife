@@ -61,7 +61,7 @@ Visit the (https://pglifebyarchit.infinityfreeapp.com/) to explore and find PG a
 
 1. **Start Apache and MySQL in XAMPP.**
 2. **Move the project folder to the `htdocs` directory inside your XAMPP installation.**
-3. **Open [http://127.0.0.1/htdocs/PGlife) in your browser.**
+3. **Open [http://127.0.0.1/PGlife) in your browser.**
 
 ### Deployment
 
