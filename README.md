@@ -6,7 +6,7 @@ PGlife is a website designed to help students find paying guest accommodations (
 
 ### Live Demo
 
-Visit the (https://pglifebyarchit.infinityfreeapp.com/) to explore and find PG accommodations.
+Visit the (http://pglifebyarchit.infinityfreeapp.com/) to explore and find PG accommodations.
 
 ## Features
 
