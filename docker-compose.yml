@@ -1,0 +1,21 @@
+version: "2"
+services:
+  webserver:
+    image: pglife
+    ports:
+      - "80:80"
+      - "443:443"
+    # volumes:
+    #   - ./:/var/www/html
+    environment:
+      MYSQL_DB_CONNECTION: if0_35797724_pglife
+      MYSQL_DB_NAME: if0_35797724_pglife
+      MYSQL_USER: if0_35797724
+      MYSQL_PASSWORD: zKDCY5qBKYIH
+      SITE_URL: sql201.infinityfree.com
+    networks:
+      - impact
+
+networks:
+  test:
+    external: true
